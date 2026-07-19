@@ -1,0 +1,5 @@
+emp_code = (input("Enter employee code: "))
+salary = float(input("Enter employee salary: "))
+print("\nEmployee Details:")
+print("Employee Code:", emp_code)
+print("Employee Salary:", salary)
